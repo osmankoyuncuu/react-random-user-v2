@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-random-user-v2/static/css/main.58e86e2b.css",
+    "main.js": "/react-random-user-v2/static/js/main.9fa7f262.js",
+    "static/media/map.svg": "/react-random-user-v2/static/media/map.72d2b81cfc8f04e35a08619a8dc73b32.svg",
+    "static/media/growing-up-woman.svg": "/react-random-user-v2/static/media/growing-up-woman.a158584281f99f0d709c59ea4dee167e.svg",
+    "static/media/growing-up-man.svg": "/react-random-user-v2/static/media/growing-up-man.5024153b1b81cd13bdb8e51fd323551f.svg",
+    "static/media/woman.svg": "/react-random-user-v2/static/media/woman.05242306d420ecf43e9f6e677b86df07.svg",
+    "static/media/man.svg": "/react-random-user-v2/static/media/man.4b684e29c23e54f17014ddb4c2e44bf6.svg",
+    "static/media/mail.svg": "/react-random-user-v2/static/media/mail.42e0750e7e30127034e5ab11cf316365.svg",
+    "static/media/design.svg": "/react-random-user-v2/static/media/design.9f215bcea6123805b94a251910d286f5.svg",
+    "static/media/padlock.svg": "/react-random-user-v2/static/media/padlock.8d2c33d2e558cdfc835d35b8ace79550.svg",
+    "static/media/phone.svg": "/react-random-user-v2/static/media/phone.d017e1ae418c694ba9148c0a9001609c.svg",
+    "index.html": "/react-random-user-v2/index.html",
+    "main.58e86e2b.css.map": "/react-random-user-v2/static/css/main.58e86e2b.css.map",
+    "main.9fa7f262.js.map": "/react-random-user-v2/static/js/main.9fa7f262.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e86e2b.css",
+    "static/js/main.9fa7f262.js"
+  ]
+}
