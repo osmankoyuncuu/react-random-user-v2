@@ -40,4 +40,4 @@ Project aims to create a random user.
 
 ## Overview
 
-I mastered HTML, CSS and React features in this project. You can see the visual representation of the website above.
+I mastered HTML, CSS, React and axios features in this project. You can see the visual representation of the website above.
